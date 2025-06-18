@@ -1,8 +1,8 @@
 ### Hi there, I'm Pradeep ! 👋
 
-🚀 **Aspiring Machine Learning Engineer | AI Enthusiast | CSE Student**
+🚀 **Aspiring Machine Learning Engineer | AI/ML Enthusiast | ISE Student**
 
-I'm a **2nd-year Information Science Engineering student** with a keen interest in **Machine Learning, Artificial Intelligence, and Competitive Problem Solving**. Currently, I'm mastering **Data Structures & Algorithms** while exploring **ML frameworks and models**. I love collaborating on exciting ML projects! 🤝
+I'm a **2nd-year Information Science Engineering student** with a keen interest in **Machine Learning, Artificial Intelligence, Competitive Problem Solving and Entrepeneurship-Business Development**. Currently, I'm progressing **Data Structures & Algorithms** while exploring **ML frameworks and models**. I love collaborating on exciting ML and other Tech related projects! 🤝
 
 ### 🔥 **Skills & Tech Stack:**
 - **Programming Languages:** ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
