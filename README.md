@@ -43,7 +43,7 @@
 
 ---
 
-### 📌 Featured Projects
+### 📌 Projects / Research
 
 - **🏀 Player Tracking for Sports Analytics**  
   `YOLOv11 · ByteTrack · PyTorch · OpenCV`  
