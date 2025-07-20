@@ -1,26 +1,105 @@
-### Hi there, I'm Pradeep ! 👋
+<!-- Profile Header -->
+<h1 align="center">Hey there! 👾 I'm <span style="color:#007acc">Pradeep S</span></h1>
+<h3 align="center">Developer | Machine Learning | Co-Founder | Tech Enthusiast</h3>
 
-🚀 **Aspiring Machine Learning Engineer | AI/ML Enthusiast | ISE Student**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A8FF&center=true&vCenter=true&width=435&lines=ISE+@+BMSIT+%F0%9F%93%9A;Open+Source+%7C+AI+%7C+ML+Enthusiast+%F0%9F%92%BB;Web+Dev+%7C+Computer+Vision+%F0%9F%9A%80;President+of+OSCode+BMSIT+%F0%9F%92%BC;Co-Founder+of+Zelantrix+%F0%9F%8E%A4" alt="Typing SVG" />
+</p>
 
-I'm a **2nd-year Information Science Engineering student** with a keen interest in **Machine Learning, Artificial Intelligence, Competitive Problem Solving and Entrepeneurship-Business Development**. Currently, I'm progressing **Data Structures & Algorithms** while exploring **ML frameworks and models**. I love collaborating on exciting ML and other Tech related projects! 🤝
+<!-- Banner -->
+<p align="center">
+  <img src="https://sdmntprwestus.oaiusercontent.com/files/00000000-e008-6230-9dc1-b2fe4ffbbe07/raw?se=2025-07-20T14%3A34%3A25Z&sp=r&sv=2024-08-04&sr=b&scid=c92ec956-27fa-5709-a19a-eb3e3009e1a8&skoid=61180a4f-34a9-42b7-b76d-9ca47d89946d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-20T01%3A23%3A07Z&ske=2025-07-21T01%3A23%3A07Z&sks=b&skv=2024-08-04&sig=EbhHFyIvutBCqLVJDwu6m/VXXCmzva8nJG6H54qnr3g%3D" width="70%" />
+</p>
 
-### 🔥 **Skills & Tech Stack:**
-- **Programming Languages:** ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
-- **Databases:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)  
-- **AI/ML Tools:** ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-- **Other Interests:** Competitive Programming, Business Development, Software Development, 
+---
 
-### 🌱 **What I'm Currently Learning:**
-- Data Structures & Algorithms for problem-solving 💡
-- Machine Learning Models and Frameworks 🧠
-- Exploring AI Models
+### 👨‍💻 About Me
 
-### 💻 **Projects & Collaborations:**
-- 🚀 **[Finance Tracking App](#)** – A mobile-first expense tracking and savings management app 
-- 🤝 **Looking to collaborate on ML Projects!** If you have an exciting AI/ML project, let's connect! 
+- 🎓 3rd Year Information Science Engineering @ BMSIT&M | Passionate about AI ML & Innovation, Building. 
+- 🧠 Exploring AI/ML, ML Models, Deep Learning, Computer Networks and Related field.
+- 🛠️ Leading [**OSCode BMSIT&M CLUB**](https://www.instagram.com/oscode_bmsitm/) as **President**  
+- 🎤 Co-Founder @ **Zelantrix** — an event management company curating top-tier concerts and parties through global artist collaborations.  
+- 🌍 Fluent in 6 languages: English, Hindi, Telugu, Kannada, Tamil, French  
 
-### 📫 **Let's Connect!**
-[![LinkedIn](https://cdn-icons-png.flaticon.com/256/174/174857.png)](https://www.linkedin.com/in/sai-pradeep-s-76374a238/) 
-[![GitHub](https://cdn-icons-png.flaticon.com/256/25/25231.png)](https://github.com/saipradeeps) 
+---
 
-⭐ **Feel free to explore my repositories and contribute!** 
+### 🚀 Tech Stack
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+<img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="Streamlit" width="90" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="50" height="50"/>
+<img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png" alt="OpenCV" width="50" height="50"/>
+
+</div>
+
+---
+
+### 📌 Featured Projects
+
+- **🏀 Player Tracking for Sports Analytics**  
+  `YOLOv11 · ByteTrack · PyTorch · OpenCV`  
+  Built real-time player tracking with persistent IDs across video frames.
+
+- **🧪 Diabetes Prediction App**  
+  `Python · Scikit-learn · Streamlit`  
+  Interactive ML-based web app for diabetes diagnosis with model comparisons.
+
+---
+
+### 🏆 Achievements
+
+- 🥇 Top 5 of 800+ in **Roundpier Global Entrepreneurship Competition**  
+- 🚀 Scaled ops & comms during my internship @ **Stellar Tours**  
+- 💡 Built and deployed ERP system for internal team optimization  
+- 👥 Organizing events for 200+ students under **OSCode BMSIT&M**  
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saipradeeps&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=saipradeeps&theme=radical&hide_border=false" height="170"/>
+</p>
+
+---
+
+### 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saipradeeps&theme=monokai&no-bg=true&row=1&column=6" />
+</p>
+
+---
+
+### 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saipradeeps&bg_color=1e1e1e&color=00ffe4&line=00ffe4&point=ffffff&area=true&hide_border=true" />
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="mailto:deverakondasaipradeep@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/pradeepdeverakonda/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/saipradeeps"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">💙 Thanks for visiting my profile! Drop a ⭐ if you like what you see!</p>
+
+**Feel free to explore my repositories and contribute!**
+
