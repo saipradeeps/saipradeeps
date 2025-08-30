@@ -1,9 +1,9 @@
 <!-- Profile Header -->
 <h1 align="center">Hey there! 👾 I'm <span style="color:#007acc">Pradeep</span></h1>
-<h3 align="center">Developer | Machine Learning | Co-Founder | Tech Enthusiast</h3>
+<h3 align="center">Developer | Machine Learning | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A8FF&center=true&vCenter=true&width=435&lines=ISE+@+BMSIT+%F0%9F%93%9A;Open+Source+%7C+AI+%7C+ML+Enthusiast;Web+Dev+%7C;President+of+OSCode+BMSIT+%F0%9F%92%BC;Co-Founder+of+Zelantrix+%F0%9F%8E%A4" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A8FF&center=true&vCenter=true&width=435&lines=ISE+@+BMSIT;Open+Source+%7C+AI+%7C+ML+Enthusiast;Web+Dev;President+of+OSCode+BMSIT;Co-Founder+of+Zelantrix" alt="Typing SVG" />
 </p>
 
 
