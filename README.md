@@ -6,10 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A8FF&center=true&vCenter=true&width=435&lines=ISE+@+BMSIT+%F0%9F%93%9A;Open+Source+%7C+AI+%7C+ML+Enthusiast+%F0%9F%92%BB;Web+Dev+%7C+Computer+Vision+%F0%9F%9A%80;President+of+OSCode+BMSIT+%F0%9F%92%BC;Co-Founder+of+Zelantrix+%F0%9F%8E%A4" alt="Typing SVG" />
 </p>
 
-<!-- Banner -->
-<p align="center">
-  <img src="https://sdmntprwestus.oaiusercontent.com/files/00000000-e008-6230-9dc1-b2fe4ffbbe07/raw?se=2025-07-20T14%3A34%3A25Z&sp=r&sv=2024-08-04&sr=b&scid=c92ec956-27fa-5709-a19a-eb3e3009e1a8&skoid=61180a4f-34a9-42b7-b76d-9ca47d89946d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-20T01%3A23%3A07Z&ske=2025-07-21T01%3A23%3A07Z&sks=b&skv=2024-08-04&sig=EbhHFyIvutBCqLVJDwu6m/VXXCmzva8nJG6H54qnr3g%3D" width="45%" />
-</p>
+
 
 ---
 
