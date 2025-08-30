@@ -3,7 +3,7 @@
 <h3 align="center">Developer | Machine Learning | Co-Founder | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A8FF&center=true&vCenter=true&width=435&lines=ISE+@+BMSIT+%F0%9F%93%9A;Open+Source+%7C+AI+%7C+ML+Enthusiast+%F0%9F%92%BB;Web+Dev+%7C+Computer+Vision+%F0%9F%9A%80;President+of+OSCode+BMSIT+%F0%9F%92%BC;Co-Founder+of+Zelantrix+%F0%9F%8E%A4" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A8FF&center=true&vCenter=true&width=435&lines=ISE+@+BMSIT+%F0%9F%93%9A;Open+Source+%7C+AI+%7C+ML+Enthusiast+%F0%9F%92%BB;Web+Dev+%7C+%F0%9F%9A%80;President+of+OSCode+BMSIT+%F0%9F%92%BC;Co-Founder+of+Zelantrix+%F0%9F%8E%A4" alt="Typing SVG" />
 </p>
 
 
