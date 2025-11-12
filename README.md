@@ -4,15 +4,26 @@
   <h1>Pradeep Deverakonda 👾 </h1>
   <h3>Machine Learning Enthusiast | Entrepreneurship</h3>
   <br>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/pradeepdeverakonda/"> 
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" border-radius="50"px width="60" />
-    </a>
-    <a href="https://deverakonda.me/">
-      <img width="60" height="60" src="https://img.icons8.com/fluency/48/user-male-circle--v1.png" alt="user-male-circle--v1"/>
-    </a>
-    
-  </p>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/pradeepdeverakonda/">
+          <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="48"/><br>
+          <span>LinkedIn</span>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://deverakonda.me/">
+          <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png" alt="Portfolio Link" width="48"/><br>
+          <span>Portfolio Link</span>
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
+
+
 </div>
 
 ---
@@ -93,7 +104,7 @@ I am a 3rd-year **Information Science Engineering** student at BMSIT&M, speciali
   </span>
 </p>
 
-<<p align="center">
+<p align="center">
   <b>Tools</b>
 </p>
 <p align="center">
