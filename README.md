@@ -72,12 +72,6 @@ My key projects reflect a commitment to applying AI in high-impact domains, from
 
 ---
 
-## 📊 My GitHub Insights
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=saipradeeps&show_icons=true&theme=default&hide_rank=false&include_all_commits=true&count_private=true&line_height=25&hide_border=true&cacheSeconds=3600" alt="Pradeep's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipradeeps&layout=compact&theme=default&card_width=495&hide_border=true&cacheSeconds=3600" alt="Top Languages" />
-</div>
 
 ***
 
