@@ -156,9 +156,6 @@ I am a 3rd-year **Information Science Engineering** student at BMSIT&M, speciali
 | :--- | :--- | :--- |
 | <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge&color=28A745" alt="Status Badge"> | <a href="https://lunar-unveiled.vercel.app"><img src="https://img.shields.io/badge/Live-Vercel-000000?style=for-the-badge&logo=vercel" alt="Live Demo Badge"></a> | <a href="https://github.com/saipradeeps/Lunar-Unveiled.git"><img src="https://img.shields.io/badge/Code-GitHub-100000?style=for-the-badge&logo=github" alt="GitHub Repo Badge"></a> |
 
----
-
-
 ***
 
 <div align="center">
