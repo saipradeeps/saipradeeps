@@ -1,25 +1,23 @@
 <div align="center">
   <img src="https://drive.google.com/file/d/1Oz7TaHiqxpCyfZTWEtmaf5mIRrNYFwYK/view?usp=sharing" alt="Pradeep Deverakonda Profile Picture" width="130" style="border-radius: 50%; border: 3px solid #20232A;">
   <br>
-  <h1>Pradeep Deverakonda</h1>
-  <h3>Machine Learning Enthusiast | Student Leader</h3>
+  <h1>Pradeep Deverakonda 👾 </h1>
+  <h3>Machine Learning Enthusiast | Entrepreneurship</h3>
   <br>
   <p align="center">
-    <a href="https://www.linkedin.com/in/pradeepdeverakonda/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&cacheSeconds=3600&colorB=0A66C2" alt="LinkedIn">
+    <a href="https://www.linkedin.com/in/pradeepdeverakonda/"> 
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" border-radius="50"px width="60" />
     </a>
     <a href="https://deverakonda.me/">
-      <img src="https://img.shields.io/badge/Portfolio-E34F26?style=for-the-badge&logo=google-chrome&logoColor=white&cacheSeconds=3600&colorB=E34F26" alt="Portfolio">
+      <img width="60" height="60" src="https://img.icons8.com/fluency/48/user-male-circle--v1.png" alt="user-male-circle--v1"/>
     </a>
-    <a href="https://leetcode.com/u/saipradeeps/">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&cacheSeconds=3600&colorB=FFA116" alt="LeetCode">
-    </a>
+    
   </p>
 </div>
 
 ---
 
-## 💡 About Me
+## About Me
 
 I am a 3rd-year **Information Science Engineering** student at BMSIT&M, specializing in the development of **Machine Learning** and **Artificial Intelligence** solutions. My focus lies in building **innovative, scalable products** while maintaining a strong foundation in **Data Structures and Algorithms (DSA)**.
 
@@ -30,27 +28,103 @@ I am a 3rd-year **Information Science Engineering** student at BMSIT&M, speciali
 
 ---
 
-## 🛠️ Core Technology Stack
+## Tech Stack
 
-I work across the full stack of AI and modern development, leveraging the following core tools:
-
-| Category | Technologies |
-| :--- | :--- |
-| **ML & AI** | **Python** (NumPy, Pandas), **PyTorch**, **TensorFlow**, **Hugging Face** |
-| **Web Dev** | **Next.js**, **React**, **TypeScript**, JavaScript, HTML, CSS |
-| **Languages** | Python, C++, Java |
-| **Tools & OS** | **Linux**, Git, GitHub Copilot, Vercel |
-
-<br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,nextjs,react,ts,cpp,linux,git&theme=light" alt="Tech Stack Icons" />
+  <b>Languages</b>
 </p>
+<p align="center">
+  <span style="background:white; border-radius:20px; display:inline-block; padding:12px; margin:4px;">
+    <img src="https://skillicons.dev/icons?i=py&theme=light" width="60" />
+  </span>
+  <span style="background:white; border-radius:20px; display:inline-block; padding:12px; margin:4px;">
+    <img src="https://skillicons.dev/icons?i=java&theme=light" width="60" />
+  </span>
+  <span style="background:white; border-radius:20px; display:inline-block; padding:12px; margin:4px;">
+    <img src="https://skillicons.dev/icons?i=cpp&theme=light" width="60" />
+  </span>
+  <span style="background:white; border-radius:20px; display:inline-block; padding:12px; margin:4px;">
+    <img src="https://skillicons.dev/icons?i=c&theme=light" width="60" />
+  </span>
+  <span style="background:white; border-radius:20px; display:inline-block; padding:12px; margin:4px;">
+    <img src="https://skillicons.dev/icons?i=bash&theme=light" width="60" />
+  </span>
+</p>
+
+<p align="center">
+  <b>Technologies</b>
+</p>
+<p align="center">
+  <span style="background:white; border-radius:20px; display:inline-block; padding:12px; margin:4px;">
+    <img src="https://skillicons.dev/icons?i=pytorch&theme=light" width="60" />
+  </span>
+  <span style="background:white; border-radius:20px; display:inline-block; padding:12px; margin:4px;">
+    <img src="https://skillicons.dev/icons?i=tensorflow&theme=light" width="60" />
+  </span>
+  <span style="background:white; border-radius:20px; display:inline-block; padding:12px; margin:4px;">
+    <img src="https://skillicons.dev/icons?i=sklearn&theme=light" width="60" />
+  </span>
+  <span style="background:white; border-radius:20px; display:inline-block; padding:12px; margin:4px;">
+    <img src="https://skillicons.dev/icons?i=fastapi&theme=light" width="60" />
+  </span>
+  <span style="background:white; border-radius:20px; display:inline-block; padding:12px; margin:4px;">
+    <img src="https://skillicons.dev/icons?i=opencv&theme=light" width="60" />
+  </span>
+  <span style="background:white; border-radius:20px; display:inline-block; padding:12px; margin:4px;">
+    <img src="https://skillicons.dev/icons?i=nextjs&theme=light" width="60" />
+  </span>
+  <span style="background:white; border-radius:20px; display:inline-block; padding:12px; margin:4px;">
+    <img src="https://skillicons.dev/icons?i=react&theme=light" width="60" />
+  </span>
+  <span style="background:white; border-radius:20px; display:inline-block; padding:12px; margin:4px;">
+    <img src="https://skillicons.dev/icons?i=ts&theme=light" width="60" />
+  </span>
+  <span style="background:white; border-radius:20px; display:inline-block; padding:12px; margin:4px;">
+    <img src="https://skillicons.dev/icons?i=javascript&theme=light" width="60" />
+  </span>
+  <span style="background:white; border-radius:20px; display:inline-block; padding:12px; margin:4px;">
+    <img src="https://skillicons.dev/icons?i=html&theme=light" width="60" />
+  </span>
+  <span style="background:white; border-radius:20px; display:inline-block; padding:12px; margin:4px;">
+    <img src="https://skillicons.dev/icons?i=css&theme=light" width="60" />
+  </span>
+  <span style="background:white; border-radius:20px; display:inline-block; padding:12px; margin:4px;">
+    <img src="https://skillicons.dev/icons?i=latex&theme=light" width="60" />
+  </span>
+</p>
+
+<<p align="center">
+  <b>Tools</b>
+</p>
+<p align="center">
+  <span style="background:white; border-radius:20px; display:inline-block; padding:12px; margin:4px;">
+    <img src="https://skillicons.dev/icons?i=git&theme=light" width="60" />
+  </span>
+  <span style="background:white; border-radius:20px; display:inline-block; padding:12px; margin:4px;">
+    <img src="https://skillicons.dev/icons?i=github&theme=light" width="60" />
+  </span>
+  <span style="background:white; border-radius:20px; display:inline-block; padding:12px; margin:4px;">
+    <img src="https://skillicons.dev/icons?i=vercel&theme=light" width="60" />
+  </span>
+  <span style="background:white; border-radius:20px; display:inline-block; padding:12px; margin:4px;">
+    <img src="https://skillicons.dev/icons?i=figma&theme=light" width="60" />
+  </span>
+  <span style="background:white; border-radius:20px; display:inline-block; padding:12px; margin:4px;">
+    <img src="https://skillicons.dev/icons?i=ubuntu&theme=light" width="60" />
+  </span>
+  <span style="background:white; border-radius:20px; display:inline-block; padding:12px; margin:4px;">
+    <img src="https://skillicons.dev/icons?i=linux&theme=light" width="60" />
+  </span>
+  <span style="background:white; border-radius:20px; display:inline-block; padding:12px; margin:4px;">
+    <img src="https://skillicons.dev/icons?i=npm&theme=light" width="60" />
+  </span>
+</p>
+
+
 
 ---
 
-## 🚀 Featured Projects
-
-My key projects reflect a commitment to applying AI in high-impact domains, from healthcare to space exploration.
+## Projects
 
 ### 1. AyuBridge: AI-Powered Health Code Translator
 * **Goal:** To bridge the gap between traditional AYUSH’s NAMASTE system and modern ICD-11 codes.
@@ -76,7 +150,7 @@ My key projects reflect a commitment to applying AI in high-impact domains, from
 ***
 
 <div align="center">
-    Find more detailed projects and information on my <a href="https://deverakonda.me/">**Portfolio**</a>.
+    Find more detailed projects and information on my <a href="https://deverakonda.me/">*Portfolio*</a>.
     <br>
     <br>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=50&section=footer"/>
