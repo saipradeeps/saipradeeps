@@ -60,6 +60,18 @@ I am a 3rd-year **Information Science Engineering** student at BMSIT&M, speciali
   <span style="background:white; border-radius:20px; display:inline-block; padding:12px; margin:4px;">
     <img src="https://skillicons.dev/icons?i=bash&theme=light" width="60" />
   </span>
+  <span style="background:white; border-radius:20px; display:inline-block; padding:12px; margin:4px;">
+    <img src="https://skillicons.dev/icons?i=html&theme=light" width="60" />
+  </span>
+  <span style="background:white; border-radius:20px; display:inline-block; padding:12px; margin:4px;">
+    <img src="https://skillicons.dev/icons?i=css&theme=light" width="60" />
+  </span>
+  <span style="background:white; border-radius:20px; display:inline-block; padding:12px; margin:4px;">
+    <img src="https://skillicons.dev/icons?i=javascript&theme=light" width="60" />
+  </span>
+  <span style="background:white; border-radius:20px; display:inline-block; padding:12px; margin:4px;">
+    <img src="https://skillicons.dev/icons?i=ts&theme=light" width="60" />
+  </span>
 </p>
 
 <p align="center">
@@ -86,18 +98,6 @@ I am a 3rd-year **Information Science Engineering** student at BMSIT&M, speciali
   </span>
   <span style="background:white; border-radius:20px; display:inline-block; padding:12px; margin:4px;">
     <img src="https://skillicons.dev/icons?i=react&theme=light" width="60" />
-  </span>
-  <span style="background:white; border-radius:20px; display:inline-block; padding:12px; margin:4px;">
-    <img src="https://skillicons.dev/icons?i=ts&theme=light" width="60" />
-  </span>
-  <span style="background:white; border-radius:20px; display:inline-block; padding:12px; margin:4px;">
-    <img src="https://skillicons.dev/icons?i=javascript&theme=light" width="60" />
-  </span>
-  <span style="background:white; border-radius:20px; display:inline-block; padding:12px; margin:4px;">
-    <img src="https://skillicons.dev/icons?i=html&theme=light" width="60" />
-  </span>
-  <span style="background:white; border-radius:20px; display:inline-block; padding:12px; margin:4px;">
-    <img src="https://skillicons.dev/icons?i=css&theme=light" width="60" />
   </span>
   <span style="background:white; border-radius:20px; display:inline-block; padding:12px; margin:4px;">
     <img src="https://skillicons.dev/icons?i=latex&theme=light" width="60" />
@@ -133,11 +133,12 @@ I am a 3rd-year **Information Science Engineering** student at BMSIT&M, speciali
 
 
 
+
 ---
 
 ## Projects
 
-### 1. AyuBridge: AI-Powered Health Code Translator
+### 1. AyuBridge: 
 * **Goal:** To bridge the gap between traditional AYUSH’s NAMASTE system and modern ICD-11 codes.
 * **Impact:** Enables doctors to dual-code diagnoses seamlessly within any EMR via ABHA-secure login, streamlining insurance claims and strengthening national health data.
 * **Technologies:** AI/ML, Next.js, Secure Health APIs.
@@ -146,7 +147,7 @@ I am a 3rd-year **Information Science Engineering** student at BMSIT&M, speciali
 | :--- | :--- | :--- |
 | <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge&color=28A745" alt="Status Badge"> | <a href="https://namaste-api-one.vercel.app"><img src="https://img.shields.io/badge/Live-Vercel-000000?style=for-the-badge&logo=vercel" alt="Live Demo Badge"></a> | <a href="https://github.com/saipradeeps/AyuBridge-NAMASTE-API.git"><img src="https://img.shields.io/badge/Code-GitHub-100000?style=for-the-badge&logo=github" alt="GitHub Repo Badge"></a> |
 
-### 2. Lunar Unveiled: PSR Image Reconstruction
+### 2. Lunar Unveiled: 
 * **Goal:** To create clear visualizations of the Moon’s challenging Permanently Shadowed Regions (PSRs).
 * **Process:** Utilizes a two-stage pipeline: **CLAHE for image enhancement** on raw Chandrayaan-2 data, followed by a custom **Generative AI model (LoRA-based inpainting)** to reconstruct plausible terrain.
 * **Technologies:** Generative AI, PyTorch, Computer Vision.
